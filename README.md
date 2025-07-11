@@ -19,28 +19,6 @@ All visualizations were built using **Tableau Desktop** based on a publicly avai
 
 ---
 
-## 📁 Repository Structure
-
-\`\`\`
-netflix-visualization-project/
-
-├── data/
-      │ 
-│     └── netflix_titles.csv
-
-├── images/
-      │ 
-│     └── dashboard_screenshots.png
-
-├── Tableau/
-      │ 
-│     └── Netflix_Dashboard.twbx
-
-├── README.md
-\`\`\`
-
----
-
 ## 📊 Tableau Dashboard
 
 > You can view the interactive dashboard here: [**Tableau Public Link**](https://public.tableau.com/app/profile/yourusername/viz/netflix_dashboard)
