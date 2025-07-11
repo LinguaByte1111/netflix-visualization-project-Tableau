@@ -26,15 +26,15 @@ netflix-visualization-project/
 
 ├── data/
 
-│   └── netflix_titles.csv
+│     └── netflix_titles.csv
 
 ├── images/
 
-│   └── dashboard_screenshots.png
+│     └── dashboard_screenshots.png
 
 ├── Tableau/
 
-│   └── Netflix_Dashboard.twbx
+│     └── Netflix_Dashboard.twbx
 
 ├── README.md
 \`\`\`
