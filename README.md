@@ -61,7 +61,7 @@ To explore the dashboard locally:
 
 ## 📷 Preview
 
-![Netflix Dashboard Preview](images/dashboard_screenshots.png)
+![Netflix Dashboard Preview]()
 
 ---
 
