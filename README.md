@@ -1,5 +1,3 @@
-mkdir -p netflix-visualization-project/{data,images,Tableau} && \
-cat > netflix-visualization-project/README.md << 'EOF'
 # 📊 Netflix Visualization Project (Tableau)
 
 This project showcases interactive data visualizations of Netflix content using **Tableau**. The goal is to uncover insights into Netflix's content catalog, such as trends by genre, release year, country, and more, to better understand how Netflix's library has evolved over time.
