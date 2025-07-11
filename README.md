@@ -25,15 +25,15 @@ All visualizations were built using **Tableau Desktop** based on a publicly avai
 netflix-visualization-project/
 
 ├── data/
-
+      │ 
 │     └── netflix_titles.csv
 
 ├── images/
-
+      │ 
 │     └── dashboard_screenshots.png
 
 ├── Tableau/
-
+      │ 
 │     └── Netflix_Dashboard.twbx
 
 ├── README.md
