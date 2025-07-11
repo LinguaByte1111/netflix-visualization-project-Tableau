@@ -11,7 +11,7 @@ Netflix has become a global leader in streaming entertainment. This dashboard pr
 - Content distribution by type (Movie vs. TV Show)
 - Trends in release years
 - Genre popularity
-- Country-wise content production
+- Country-wise content production/Watch Per Id
 - Ratings and duration breakdown
 - Temporal trends (e.g., what years had the most releases)
 
