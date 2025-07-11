@@ -23,7 +23,6 @@ All visualizations were built using **Tableau Desktop** based on a publicly avai
 
 > You can view the interactive dashboard here: [**Tableau Public Link**](https://public.tableau.com/app/profile/yourusername/viz/netflix_dashboard)
 
-*Note: Replace the above link with your actual Tableau Public link.*
 
 ### Dashboard Highlights:
 - **Interactive Filters** for country, content type, and years.
