@@ -21,7 +21,7 @@ All visualizations were built using **Tableau Desktop** based on a publicly avai
 
 ## 📊 Tableau Dashboard
 
-> You can view the interactive dashboard here: [**Tableau Public Link**](https://public.tableau.com/app/profile/yourusername/viz/netflix_dashboard)
+![Dashboard Screenshot](Netflix_Dashboard.jpg)
 
 
 ### Dashboard Highlights:
