@@ -57,19 +57,6 @@ To explore the dashboard locally:
 2. Open the \`.twbx\` file in **Tableau Desktop**.
 3. Make sure \`netflix_titles.csv\` is available in the same folder for data linkage.
 
----
-
-## 📷 Preview
-
-![Netflix Dashboard Preview]()
-
----
-
-## 🙋‍♂️ Contact
-
-Feel free to connect or reach out:
-- GitHub: [yourusername](https://github.com/yourusername)
-- Tableau Public: [yourusername](https://public.tableau.com/app/profile/yourusername)
 
 ---
 
