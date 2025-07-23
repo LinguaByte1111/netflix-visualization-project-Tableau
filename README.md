@@ -61,6 +61,4 @@ To explore the dashboard locally:
 ---
 
 ⭐ If you found this helpful, feel free to star the repo and share your feedback!
-EOF
 
-cd netflix-visualization-project && git init && git add . && git commit -m "Initial commit: Added README and folder structure"
