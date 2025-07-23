@@ -73,12 +73,6 @@ Feel free to connect or reach out:
 
 ---
 
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
 ⭐ If you found this helpful, feel free to star the repo and share your feedback!
 EOF
 
