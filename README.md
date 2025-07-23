@@ -52,7 +52,7 @@ All visualizations were built using **Tableau Desktop** based on a publicly avai
 To explore the dashboard locally:
 1. Clone the repo:
    \`\`\`bash
-   git clone https://github.com/yourusername/netflix-visualization-project.git
+   git clone https://github.com/LinguaByte1111/Netflix_Dashboard.twb
    \`\`\`
 2. Open the \`.twbx\` file in **Tableau Desktop**.
 3. Make sure \`netflix_titles.csv\` is available in the same folder for data linkage.
