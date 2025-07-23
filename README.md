@@ -51,7 +51,6 @@ All visualizations were built using **Tableau Desktop** based on a publicly avai
 
 To explore the dashboard locally:
 1. Clone the repo:
-   git clone
    ```bash
    https://github.com/LinguaByte1111/netflix-visualization-project-Tableau/Netflix_Dashboard.twb
    ```
