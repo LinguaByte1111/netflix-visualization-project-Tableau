@@ -8,7 +8,6 @@ This project showcases interactive data visualizations of Netflix content using 
 
 Netflix has become a global leader in streaming entertainment. This dashboard project explores:
 
-
 - Content distribution by type (Movie vs. TV Show)
 - Trends in release years
 - Genre popularity
